@@ -1,0 +1,14 @@
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\bin\Debug\net7.0\参数传送——按值传送引用类型.exe
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\bin\Debug\net7.0\参数传送——按值传送引用类型.deps.json
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\bin\Debug\net7.0\参数传送——按值传送引用类型.runtimeconfig.json
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\bin\Debug\net7.0\参数传送——按值传送引用类型.dll
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\bin\Debug\net7.0\参数传送——按值传送引用类型.pdb
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\参数传送——按值传送引用类型.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\参数传送——按值传送引用类型.AssemblyInfoInputs.cache
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\参数传送——按值传送引用类型.AssemblyInfo.cs
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\参数传送——按值传送引用类型.csproj.CoreCompileInputs.cache
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\参数传送——按值传送引用类型.dll
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\refint\参数传送——按值传送引用类型.dll
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\参数传送——按值传送引用类型.pdb
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\参数传送——按值传送引用类型.genruntimeconfig.cache
+C:\Users\h\OneDrive\文档\编程\参数传送——按值传送引用类型\obj\Debug\net7.0\ref\参数传送——按值传送引用类型.dll
